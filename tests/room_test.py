@@ -6,4 +6,9 @@ from src.room import Room
 class TestRoom(unittest.TestCase):
     
     def setUp(self):
-        pass
+        self.bowie_room = Room("Bowie", 12)
+        self.queen_room = Room("Queen", 10)
+        self.elton_room = Room("Elton", 4)
+
+    def test_check_room_name(self):
+        self.assertEqual("Bowie", self.bowie_room.room_name) #passes

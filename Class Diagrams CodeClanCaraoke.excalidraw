@@ -1,0 +1,161 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 40,
+      "versionNonce": 1299120884,
+      "isDeleted": false,
+      "id": "QYwNUD5uTBMOZY222I8Nj",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 399.6495361328125,
+      "y": 166.18954467773438,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 296.5069580078125,
+      "height": 336.4867553710938,
+      "seed": 1576320076,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [],
+      "updated": 1681290601319,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 149,
+      "versionNonce": 1549095756,
+      "isDeleted": false,
+      "id": "qufkaO05F5YApWVLZgx14",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 424.4143981933594,
+      "y": 182.80462646484375,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 179.45982360839844,
+      "height": 275,
+      "seed": 1996507764,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1681294091787,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Bus\n\nroute_number: Int\ndestination: String\npassengers: [ ]\n\ndrive()\npassenger_count()\npick_up()\ndrop_off()\nempty_bus()",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Bus\n\nroute_number: Int\ndestination: String\npassengers: [ ]\n\ndrive()\npassenger_count()\npick_up()\ndrop_off()\nempty_bus()",
+      "lineHeight": 1.25,
+      "baseline": 268
+    },
+    {
+      "type": "line",
+      "version": 74,
+      "versionNonce": 2126143348,
+      "isDeleted": false,
+      "id": "GxoTe0R_9jmgcnbAAUHL1",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 401.2373352050781,
+      "y": 221.08416748046875,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 293.0968322753906,
+      "height": 0.65948486328125,
+      "seed": 30474572,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1681290533504,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          293.0968322753906,
+          -0.65948486328125
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 162,
+      "versionNonce": 1480954316,
+      "isDeleted": false,
+      "id": "RDfG-SY-2fuisZeWVtS6G",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 401.26531982421875,
+      "y": 318.0576477050781,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 295.81573486328125,
+      "height": 1.564910888671875,
+      "seed": 1020614516,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1681294105334,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          295.81573486328125,
+          1.564910888671875
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
