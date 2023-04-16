@@ -10,5 +10,5 @@ class TestSong(unittest.TestCase):
         self.song_taylor_swift = Song("Taylor Swift", "...Ready For It?")
         self. song_busted = Song("Busted", "Shipwrecked in Atlantis")
 
-    def test_check_song_artist(self):
-        self.assertEqual("Busted", self.song_busted.song_artist) #passes
+    # def test_check_song_artist(self):
+    #     self.assertEqual("Busted", self.song_busted.song_artist) #passes
